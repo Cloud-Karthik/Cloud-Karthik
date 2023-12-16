@@ -33,8 +33,8 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 🌐 Online Presence
 
-- [Aws DevOps with Python](https://cloudkarthik.blogspot.com/): Share your insights and experiences in tech.
-- [Portfolio Website](www.cloudkarthik.com/): Explore more about my work and projects.
+- Personal Blog: [Aws DevOps with Python](https://cloudkarthik.blogspot.com/): Share your insights and experiences in tech.
+- Portfolio Website: (www.cloudkarthik.com/): Explore more about my work and projects.
 
 ## 🏆 Achievements
 
